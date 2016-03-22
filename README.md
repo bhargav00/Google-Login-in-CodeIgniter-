@@ -20,3 +20,7 @@ $config['google_redirect_url']=base_url().'auth/oauth2callback'; //your callback
 
 -  User Guide [Codeigniter](http://www.codeigniter.com/docs).
 -  Google Client library [Resource](https://github.com/google/google-api-php-client).
+
+# Demo
+
+-[click here](http://itechnospot.com/social_login/google/) for demo
