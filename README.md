@@ -23,4 +23,4 @@ $config['google_redirect_url']=base_url().'auth/oauth2callback'; //your callback
 
 # Demo
 
--[Click here](http://itechnospot.com/social_login/google/) for demo
+-[Click here](http://itechnospot.com/bhargav_data/social_login/google/) for demo
